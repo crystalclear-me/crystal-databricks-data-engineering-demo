@@ -44,11 +44,11 @@ The pipeline follows the Medallion Architecture:
 - Initial data profiling.
 - Bronze Delta table ingestion.
 - Bronze record count and data preservation validation.
-
-### Upcoming
 - Silver data cleansing and transformation.
 - Invalid transaction identification and rejection handling.
 - Data quality testing.
+
+### Upcoming
 - Gold transaction analytics.
 - Pipeline automation and monitoring.
 
